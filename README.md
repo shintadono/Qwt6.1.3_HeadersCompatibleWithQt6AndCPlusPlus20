@@ -1,0 +1,1 @@
+# Qwt6.1.3_HeadersCompatibleWithQt6AndCPlusPlus20
